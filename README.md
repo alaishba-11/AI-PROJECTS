@@ -12,3 +12,7 @@ TEXT TO 3D MODEL GENERATION(SHAPE-E, PYHTON)
 - 🧾 [View in NBViewer](https://nbviewer.org/github/alaishba-11/AI-PROJECTS/blob/main/TEXT_TO_3D_MODELS(AI).ipynb)
 - 🚀 [Run in Google Colab](https://colab.research.google.com/github/alaishba-11/AI-PROJECTS/blob/main/TEXT_TO_3D_MODELS(AI).ipynb)
 
+EAGLE PROJECT (LLAMA MODEL)
+## 🔍 View or Run the Notebook
+- 🧾 [View in NBViewer](https://nbviewer.org/github/alaishba-11/AI-PROJECTS/blob/main/A_Eagle_AI.ipynb)
+- 🚀 [Run in Google Colab](https://colab.research.google.com/github/alaishba-11/AI-PROJECTS/blob/main/A_Eagle_AI.ipynb)
