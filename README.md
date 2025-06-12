@@ -14,6 +14,5 @@ TEXT TO 3D MODEL GENERATION(SHAPE-E, PYHTON)
 
 AI CHAT BOT:
 ## VIEW or RUN the notebook
-- 🧾 [View in NBViewer](https://nbviewer.org/github/your-username/your-repo/blob/main/AI_aviationBOT.ipynb)
-- 🚀 [Run in Google Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/AI_aviationBOT.ipynb)
-
+- 🧾 [View in NBViewer](https://nbviewer.org/github/your-username/your-repo/blob/main/AI_BOT.ipynb)
+- 🚀 [Run in Google Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/AI_BOT.ipynb)
