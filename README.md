@@ -12,7 +12,3 @@ TEXT TO 3D MODEL GENERATION(SHAPE-E, PYHTON)
 - 🧾 [View in NBViewer](https://nbviewer.org/github/alaishba-11/AI-PROJECTS/blob/main/TEXT_TO_3D_MODELS(AI).ipynb)
 - 🚀 [Run in Google Colab](https://colab.research.google.com/github/alaishba-11/AI-PROJECTS/blob/main/TEXT_TO_3D_MODELS(AI).ipynb)
 
-AI CHAT BOT:
-## VIEW or RUN the notebook
-- 🧾 [View in NBViewer](https://nbviewer.org/github/your-username/your-repo/blob/main/AI_BOT.ipynb)
-- 🚀 [Run in Google Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/AI_BOT.ipynb)
